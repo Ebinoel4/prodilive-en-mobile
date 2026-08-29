@@ -1,4 +1,3 @@
-
 workflows:
   ios-workflow:
     name: iOS Build
@@ -10,7 +9,6 @@ workflows:
     scripts:
       - name: Install npm dependencies
         script: npm install
-      -
       - name: Build iOS app (unsigned)
         script: |
           xcode-project build-ipa \
