@@ -1,0 +1,10 @@
+{
+	"appId": "com.prodilivebyen.app",
+	"appName": "PRODILIVE BY EN",
+	"webDir": "www",
+	"server": {
+		"url": "https://prodilive.onrender.com",
+		"cleartext": false
+	},
+	"packageClassList": []
+}
